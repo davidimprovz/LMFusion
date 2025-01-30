@@ -1,0 +1,10 @@
+psycopg2
+huggingface_hub
+transformers
+numpy
+scikit-learn
+langchain
+requests
+Pillow
+geemap
+earthengine-api
